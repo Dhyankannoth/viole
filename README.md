@@ -1,5 +1,5 @@
 👋 Hey, I'm Dhyan
-🎓 Student at Vit Chennai
+🎓 CSE Student at Vit Chennai
 
 💻 Frontend Developer
 
